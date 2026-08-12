@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BibliotecaIMC/BibliotecaIMC.csproj" />
+  <Project Path="TesteBibliotecaIMC/TesteBibliotecaIMC.csproj" />
+</Solution>
